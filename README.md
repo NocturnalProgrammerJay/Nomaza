@@ -1,7 +1,5 @@
 # Object-Oriented-Design-Programming-Group-Project
-
-# Heading OOP Class Project:
-My responsibilities included implementing design patterns, creating concrete classes/interfaces, creating uml diagrams, javaDocs, and Junit testing.
+My responsibilities included implementing design patterns, creating concrete classes/interfaces, creating uml diagrams, javaDocs, and Junit testing **bold text**.
 
 Instructions:
 1. Download this repo.
