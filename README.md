@@ -1,5 +1,5 @@
 # Object-Oriented-Design-Programming-Group-Project
-My responsibilities included implementing design patterns, creating concrete classes/interfaces, creating uml diagrams, javaDocs, and Junit testing **bold text**.
+**My responsibilities included implementing design patterns, creating concrete classes/interfaces, creating uml diagrams, javaDocs, and Junit testing**.
 
 Instructions:
 1. Download this repo.
