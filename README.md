@@ -1,5 +1,5 @@
 # JAVA GUI SHOPPING CART APPLICATION 
-### Object-Oriented-Design-Programming-Group-Project
+### Object-Oriented-Design-Programming-Group-Project FALL 2022
 
 **My responsibilities included implementing design patterns, creating concrete classes/interfaces, creating uml diagrams, javaDocs, and Junit testing**.
 
