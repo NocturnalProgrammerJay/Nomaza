@@ -1,0 +1,16 @@
+[
+	{
+		"seller1":{
+			"profit":"264.0",
+			"revenues":"475.0",
+			"costs":"211.0"
+			}
+		},
+	{
+		"seller2":{
+			"profit":"0.0",
+			"revenues":"0.0",
+			"costs":"0.0"
+			}
+		}
+]

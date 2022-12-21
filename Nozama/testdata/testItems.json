@@ -1,0 +1,70 @@
+[
+  {
+	"000": {
+	  "name": "T-Shirt",
+	  "invoice_price" : "10.00",
+	  "sell_price": "15.00",
+	  "description" : "It's a T-shirt bro... calm down",
+	  "quantity" : "15",
+	  "vendor" : "seller1"
+	}
+  },
+  {
+	"001": {
+	  "name": "Poster",
+	  "invoice_price" : "10.00",
+	  "sell_price": "30.00",
+	  "description" : "It's a Poster bro...",
+	  "quantity" : "10",
+	  "vendor" : "seller1"
+	}
+  },
+  {
+	"b000": {
+	  "bundleName": "Fruit Bundle",
+	  "vendor": "seller1",
+	  "quantity": "18",
+	  "items": [
+		{
+		  "002": {
+			"name": "Strawberry",
+			"invoice_price": "0.15",
+			"sell_price": "0.50",
+			"description": "Fresh Strawberries from California",
+			"quantity": "10"
+		  }
+		},
+		{
+		  "003": {
+			"name": "Apple",
+			"invoice_price": "0.50",
+			"sell_price": "1.00",
+			"description": "Fresh Sliced Apples",
+			"quantity": "10"
+		  }
+		},
+		{
+		  "004": {
+			"name": "Banana",
+			"invoice_price": "0.75",
+			"sell_price": "1.00",
+			"description": "Fresh Banana slices",
+			"quantity": "10"
+		  }
+		}
+
+	  ]
+	}
+  },
+  {
+	"005": {
+	  "name": "Bottle",
+	  "invoice_price" : "5.00",
+	  "sell_price": "15.00",
+	  "description" : "It's a Bottle bro...",
+	  "quantity" : "8",
+	  "vendor" : "seller1"
+	}
+  }
+
+]

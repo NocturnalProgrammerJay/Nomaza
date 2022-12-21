@@ -1,0 +1,16 @@
+[
+  {
+    "000": {
+      "username" :  "username",
+      "password": "password",
+      "accountType": "customer"
+    }
+  },
+  {
+    "001": {
+      "username" :  "seller1",
+      "password": "password1",
+      "accountType": "seller"
+    }
+  }
+]

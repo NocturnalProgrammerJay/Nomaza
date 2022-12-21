@@ -1,0 +1,66 @@
+[
+	{
+		"000":{
+			"name":"T-Shirt",
+			"invoice_price":"10.00",
+			"sell_price":"15.00",
+			"description":"It's a T-shirt bro... calm down",
+			"quantity":"7",
+			"vendor":"seller1"
+			}
+		},
+	{
+		"b000":{
+			"bundleName":"Bundle Name",
+			"vendor":"seller1",
+			"quantity":"2",
+			"items":[
+				{
+					"007":{
+						"name":"item1",
+						"invoice_price":"5",
+						"sell_price":"10",
+						"description":"",
+						"quantity":"1"
+						}
+					},
+				{
+					"007":{
+						"name":"item2",
+						"invoice_price":"5",
+						"sell_price":"10",
+						"description":"",
+						"quantity":"1"
+						}
+					},
+				{
+					"007":{
+						"name":"item3",
+						"invoice_price":"5",
+						"sell_price":"10",
+						"description":"",
+						"quantity":"1"
+						}
+					}
+]
+			}
+		},
+	{
+		"b000":{
+			"bundleName":"Bundle Name",
+			"vendor":"seller1",
+			"quantity":"3",
+			"items":[
+				{
+					"008":{
+						"name":"new Item",
+						"invoice_price":"10.00",
+						"sell_price":"55.00",
+						"description":"A cool description",
+						"quantity":"3"
+						}
+					}
+]
+			}
+		}
+]
